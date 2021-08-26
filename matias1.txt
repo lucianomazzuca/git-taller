@@ -1,2 +1,6 @@
 modificacion1
+<<<<<<< HEAD
 santos lugares
+=======
+luciano
+>>>>>>> 533ccaaf8ababaf98c0abb62dfe0b86fbdb02656
